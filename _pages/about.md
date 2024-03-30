@@ -6,7 +6,7 @@ subtitle: Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: false # prof_pic.jpg
+  image: cat.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>  </p>
