@@ -18,4 +18,6 @@ social: false # includes social icons at the bottom of the page
 
 XXXXX THIS PAGE IS CURRENTLY UNDER CONSTRUCTION. XXXXX
 
+I'm a Ph.D. student at UCSD.
+
 I'm broadly interested in learning-based control and optimization problems.
