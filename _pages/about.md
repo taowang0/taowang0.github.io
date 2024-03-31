@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Email: taw003 [AT] ucsd [DOT] edu
+subtitle: Email: taw003 (AT) ucsd (DOT) edu
 
 profile:
   align: right
