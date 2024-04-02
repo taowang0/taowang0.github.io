@@ -6,7 +6,7 @@ subtitle: taw003 (AT) ucsd (DOT) edu
 
 profile:
   align: right
-  image: cat.jpg
+  image: jimmy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Hi, it's not me.  </p>
