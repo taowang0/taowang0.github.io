@@ -17,4 +17,4 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. student at UCSD, advised by <a href="https://scungao.github.io/">Sicun Gao</a>. Currently, we are interested in learning-based control and optimization problems, with a specific focus on the application of reinforcement learning (RL) in the field of control and robotics. I am also interested in analyzing the foundation of learning methods.
+I am a Ph.D. student at UCSD, advised by <a href="https://scungao.github.io/">Sicun Gao</a>. Currently, we are interested in learning-based control and optimization problems, with a specific focus on the application of reinforcement learning (RL) in the field of control and robotics. I am also interested in the foundation of learning methods.
