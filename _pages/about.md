@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: taw003 (AT) ucsd (DOT) edu
 
-profile:
+profile: 
   align: right
   image: jimmy.jpg
   image_circular: false # crops the image to make it circular
